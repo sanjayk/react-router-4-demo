@@ -9,9 +9,9 @@ my-app/
   favicon.ico
   node_modules/
   package.json
-  __mocks__
+  __mocks__/
     routes.js
-  __tests__
+  __tests__/
     App.test.js
   src/
     App.css
