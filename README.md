@@ -9,10 +9,13 @@ my-app/
   favicon.ico
   node_modules/
   package.json
+  __mocks__
+    routes.js
+  __tests__
+    App.test.js
   src/
     App.css
     App.js
-    App.test.js
     index.css
     index.js
     logo.svg
